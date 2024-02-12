@@ -1,0 +1,3 @@
+[submodule "project/CacheCompass_Tracker"]
+	path = project/CacheCompass_Tracker
+	url = git@github.com:TheGoncaloSilva/CacheCompass_Tracker.git
